@@ -1,0 +1,6 @@
+{
+  "name": "AI Rental Package Builder",
+  "description": "An interactive AI-powered assistant that designs specific, budget-conscious rental equipment packages based on events, budget, experience level, and other user constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
